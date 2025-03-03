@@ -3,8 +3,8 @@ In this Repository tried to explain how back end developer can avoid most used a
 ~ XSS (CROSS SITE SCRIPTING )
 ~ BruteForce
 ~ Dos
-
-We all know that EntityFramework core avoid SQL injections by itself, that's why didn't post about it
+~ Open Redirection Attacks
+We all know that EntityFramework core avoid SQL injections by itself, that's why didn't metinon about SQL injection but at all avoid using Raw url inputs to manipulate database :)
 I hope you will understand very well
 For comments and suggestions : @nihadelesgerov0@gmail.com
-LinkedIn : https://www.linkedin.com/in/nihad-alasgarov-1a7934200/
+LinkedIn : https://www.linkedin.com/in/nihad-alasgarov-a8586a341/
